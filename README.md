@@ -15,7 +15,7 @@ Recriar a famosa pokédex.
 HTML , CSS e JavaScript. 
 </p>
 
-<h2 align="center"> No Gif a baixo você pode vê um pouco de como ficou o projeto: <br /></h2>
+<h2 align="center"> No Gif abaixo você pode ver um pouco de como ficou o projeto: <br /></h2>
 
 ![gif da pokedex](https://github.com/eduardolm6/Pokedex/blob/main/pokedex.gif)
 
