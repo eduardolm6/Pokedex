@@ -16,4 +16,4 @@ HTML , CSS e JavaScript.
 </p>
 
 <h2 align="center"> No Gif a baixo você pode vê um pouco de como ficou o projero: <br /></h2>
-![Desmonstração do formulário em forma de Gif](https://github.com/eduardolm6/Formulario-avancado/blob/main/GIF%20form.gif)
+![Desmonstração da pokedex em forma de Gif](https://github.com/eduardolm6/Pokedex/commit/93f33899bdac890240259e90f5c961ad877e9a0f)
