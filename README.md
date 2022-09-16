@@ -16,4 +16,5 @@ HTML , CSS e JavaScript.
 </p>
 
 <h2 align="center"> No Gif a baixo você pode vê um pouco de como ficou o projero: <br /></h2>
-![Desmonstração da pokedex em forma de Gif](https://github.com/eduardolm6/Pokedex/commit/93f33899bdac890240259e90f5c961ad877e9a0f)
+![pokedex](https://user-images.githubusercontent.com/103220612/190725302-82887d4b-e889-4ac1-bac5-b8e67179490c.gif)
+
