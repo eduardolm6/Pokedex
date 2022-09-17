@@ -19,3 +19,5 @@ HTML , CSS e JavaScript.
 
 ![gif da pokedex](https://github.com/eduardolm6/Pokedex/blob/main/pokedex.gif)
 
+[Clique aqui para acessar a pokedex](eduardolm6.github.io/pokedex)
+
